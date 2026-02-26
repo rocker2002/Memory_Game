@@ -137,6 +137,12 @@ lib/
 
 ---
 
+## Screenshots
+
+>> Screenshots will be added here.
+
+---
+
 ## 🚀 Getting Started
 
 ### Prerequisites
