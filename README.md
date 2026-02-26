@@ -139,7 +139,9 @@ lib/
 
 ## Screenshots
 
->> Screenshots will be added here.
+<img width="1080" height="2399" alt="memory_game1" src="https://github.com/user-attachments/assets/db5263d0-540c-454d-a557-c9b96b1446da" />
+<img width="1080" height="2399" alt="memory_game2" src="https://github.com/user-attachments/assets/d0571be0-11d2-428a-a935-f8e6db75fcf7" />
+<img width="1080" height="2399" alt="memory_game3" src="https://github.com/user-attachments/assets/7043be47-2926-493b-9022-27fdbd43baec" />
 
 ---
 
